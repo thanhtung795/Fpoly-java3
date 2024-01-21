@@ -1,0 +1,5 @@
+, PS002, Trần Thi C, CTTPS34525@fpt.edu.vn, 0123456789, CMT8, Nữ, D:\FPT\java3\ASM-Java3\src\ASM\hinh\P1.jpg, TKDH, 9.0, 9.0, 9.0
+, PS006, Nguyễn Văn A, AnvPS28425@fpt.edu.vn, 0123456789, Lê Văn Quới, Nam, D:\FPT\java3\ASM-Java3\src\ASM\hinh\P1.jpg, TKDH, 8.0, 7.0, 9.0
+, PS010, Huỳnh Đăng D, DHDPSPS27455@fpt.edu.vn, 0123456789, Kinh Dương Vương, Nam, D:\FPT\java3\ASM-Java3\src\ASM\hinh\P1.jpg, TKDH, 10.0, 9.0, 9.0
+, PS013, Nguyễn Văn A, AnvPS28425@fpt.edu.vn, 0123456789, Lê Văn Quới, Nam, D:\FPT\java3\ASM-Java3\src\ASM\hinh\P3.jpg, TKDH, 0.0, 0.0, 0.0
+, PS014, Nguyễn Văn A, AnvPS28425@fpt.edu.vn, 0123456789, Lê Văn Quới, Nam, D:\FPT\java3\ASM-Java3\src\ASM\hinh\P3.jpg, TKDH, 0.0, 0.0, 0.0

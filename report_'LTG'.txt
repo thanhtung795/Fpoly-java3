@@ -1,0 +1,4 @@
+, PS003, Lê Thi B, BLTPS29315@fpt.edu.vn, 0123456789, Trần Hưng Đạo, Nữ, D:\FPT\java3\ASM-Java3\src\ASM\hinh\P2.jpg, LTG, 7.0, 6.0, 6.0
+, PS004, Võ Thanh E, EVTPS23425@fpt.edu.vn, 0123456789, Trần Binh Trọng, Nam, D:\FPT\java3\ASM-Java3\src\ASM\hinh\P2.jpg, LTG, 5.0, 8.0, 7.0
+, PS008, Lê Thi B, BLTPS29315@fpt.edu.vn, 0123456789, Trần Hưng Đạo, Nữ, D:\FPT\java3\ASM-Java3\src\ASM\hinh\P2.jpg, LTG, 8.0, 6.0, 6.0
+, PS012, Nguyễn Văn A, AnvPS28425@fpt.edu.vn, 0123456789, Lê Văn Quới, Nam, D:\FPT\java3\ASM-Java3\src\ASM\hinh\P3.jpg, LTG, 0.0, 0.0, 0.0
